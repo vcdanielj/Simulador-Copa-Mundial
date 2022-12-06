@@ -1,7 +1,12 @@
 Simulador Copa Mundial 2022
 
-Extensiones Usadas
+Lenguaje usado
+Python
 
+Base de datos
+SQlite
+
+Extensiones Usadas
 Tkinter
 Pandas
 SQlite3
